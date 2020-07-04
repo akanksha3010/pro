@@ -596,7 +596,7 @@ footer .copyright
         grid-template-columns: repeat(1,1fr);
     }
 }
-@media (max-width: 450px)
+@media (max-width: 470px)
 {
     .hero .right 
     {
@@ -618,7 +618,7 @@ footer .copyright
         line-height: 2.1rem;
     } 
 }
-@media (max-width: 360px)
+@media (max-width: 350px)
 {
     .hero .right h1
     {
