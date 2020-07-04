@@ -596,3 +596,39 @@ footer .copyright
         grid-template-columns: repeat(1,1fr);
     }
 }
+@media (max-width: 450px)
+{
+    .hero .right 
+    {
+        margin-top: 2rem;
+    }
+    
+     .hero .right h6 
+    {
+       font-size: 1.3rem;
+       margin-bottom: 0.5rem;
+    }
+    .hero .right h1
+    {
+       font-size: 2rem;
+       line-height: 3rem;
+    }
+    .hero .right p 
+    {
+        line-height: 2.1rem;
+    } 
+}
+@media (max-width: 360px)
+{
+    .hero .right h1
+    {
+       font-size: 2rem;
+       line-height: 2.2rem;
+       letter-spacing: 0.2rem;
+    }
+    .hero .right p 
+    {
+        line-height: 1.7rem;
+        font-size: 1rem
+    } 
+}
