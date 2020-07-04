@@ -615,7 +615,7 @@ footer .copyright
     }
     .hero .right p 
     {
-        line-height: 2.1rem;
+        line-height: 1.7rem;
     } 
 }
 @media (max-width: 350px)
