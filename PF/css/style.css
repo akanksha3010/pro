@@ -386,12 +386,12 @@ footer .footer-logo
     width: 150px;
 }
 footer .footer-socials a{
-    margin-right: 1rem;
+    /* margin-right: 1rem; */
 }
 footer .footer-socials
 {
-    margin-bottom: 3rem;
-    margin-right: -1rem;
+    /* margin-bottom: 3rem; */
+    /* margin-right: -1rem; */
 }
 footer .footer-socials a img
 {
@@ -596,6 +596,7 @@ footer .copyright
         grid-template-columns: repeat(1,1fr);
     }
 }
+
 @media (max-width: 470px)
 {
     .hero .right 
@@ -615,7 +616,7 @@ footer .copyright
     }
     .hero .right p 
     {
-        line-height: 1.7rem;
+        line-height: 2.1rem;
     } 
 }
 @media (max-width: 350px)
@@ -629,6 +630,6 @@ footer .copyright
     .hero .right p 
     {
         line-height: 1.7rem;
-        font-size: 1.1rem
+        font-size: 1rem
     } 
 }
