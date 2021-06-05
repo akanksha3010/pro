@@ -50,6 +50,16 @@
     background: var(--primary);
     color: var(--secondary);
 }
+button.btn.btn-secondary a
+{
+    color: var(--primary);
+    text-decoration: none;
+}
+button.btn.btn-secondary a:hover
+{
+    color: var(--secondary);
+}
+
 .justify-center
 {
     justify-content: center;
