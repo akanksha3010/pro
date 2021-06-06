@@ -44,6 +44,7 @@
     background-color: transparent;
     border-color: var(--primary);
     color: var(--primary);
+    text-decoration:none;
 }
 .btn-secondary:hover
 {
